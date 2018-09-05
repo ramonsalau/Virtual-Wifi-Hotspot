@@ -1,0 +1,26 @@
+﻿<Window x:Class="Wif.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wif"
+        mc:Ignorable="d"
+        Title="Wifi Hotspot" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="Play_Stop_Button" Content="Start" HorizontalAlignment="Left" Height="68" Margin="10,116,0,0" VerticalAlignment="Top" Width="116" FontSize="36" Click="Play_Stop_Button_Click"/>
+        <TextBox x:Name="SSID_textBox" HorizontalAlignment="Left" Height="33" Margin="257,78,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" FontSize="22"/>
+        <TextBox x:Name="Password_textBox" HorizontalAlignment="Left" Height="32" Margin="257,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="219" FontSize="22"/>
+        <Label x:Name="SSID" Content="SSID" HorizontalAlignment="Left" Height="33" Margin="179,78,0,0" VerticalAlignment="Top" Width="55" FontSize="16" RenderTransformOrigin="-0.436,-0.455"/>
+        <Label x:Name="PASSWORD" Content="PASSWORD" HorizontalAlignment="Left" Height="33" Margin="131,169,0,0" VerticalAlignment="Top" Width="108" FontSize="16" RenderTransformOrigin="-0.436,-0.455"/>
+        <Label x:Name="label" Content="Number of connected users : " HorizontalAlignment="Left" Height="25" Margin="10,272,0,0" VerticalAlignment="Top" Width="191" FontSize="14"/>
+        <Label x:Name="No_Of_Users" Content="" HorizontalAlignment="Left" Height="25" Margin="201,272,0,0" VerticalAlignment="Top" Width="54" FontSize="14"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="257,129,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="1">
+            <ComboBoxItem x:Name="none" Selected="Combo_Selected">None</ComboBoxItem>
+            <ComboBoxItem x:Name="wpa2" Selected="Combo_Selected">WPA2-PSK</ComboBoxItem>
+        </ComboBox>
+        <Label x:Name="SSID_Copy" Content="Security Type" HorizontalAlignment="Left" Height="33" Margin="131,123,0,0" VerticalAlignment="Top" Width="103" FontSize="16" RenderTransformOrigin="-0.436,-0.455"/>
+        <Label x:Name="label_Copy" Content="Note: Password must be at least 8 characters " HorizontalAlignment="Left" Height="26" Margin="259,201,0,0" VerticalAlignment="Top" Width="217" FontSize="10" RenderTransformOrigin="0.5,0.252" Foreground="Red"/>
+
+
+    </Grid>
+</Window>

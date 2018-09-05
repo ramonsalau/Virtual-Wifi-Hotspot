@@ -1,0 +1,17 @@
+c:\users\ramon\documents\visual studio 2015\Projects\Wif\Wif\bin\Debug\Wif.exe.config
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\bin\Debug\Wif.exe
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\bin\Debug\Wif.pdb
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\obj\Debug\MainWindow.g.cs
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\obj\Debug\App.g.cs
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\obj\Debug\Wif_MarkupCompile.cache
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\obj\Debug\Wif_MarkupCompile.lref
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\obj\Debug\MainWindow.baml
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\obj\Debug\Wif.g.resources
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\obj\Debug\Wif.Properties.Resources.resources
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\obj\Debug\Wif.csproj.GenerateResource.Cache
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\obj\Debug\Wif.exe
+C:\Users\RAMON\documents\visual studio 2015\Projects\Wif\Wif\obj\Debug\Wif.pdb
+C:\Users\RAMON\Documents\Visual Studio 2015\Projects\Wif\Wif\obj\Debug\Wif.csprojResolveAssemblyReference.cache
+F:\Windows.old\Users\RAMON\Documents\Visual Studio 2015\Projects\Wif\Wif\bin\Debug\Wif.exe.config
+F:\Windows.old\Users\RAMON\Documents\Visual Studio 2015\Projects\Wif\Wif\obj\Debug\Wif.exe
+F:\Windows.old\Users\RAMON\Documents\Visual Studio 2015\Projects\Wif\Wif\obj\Debug\Wif.pdb
